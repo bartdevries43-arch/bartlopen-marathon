@@ -1,5 +1,5 @@
 /* Eenvoudige offline-cache voor Run Coach. Verhoog CACHE bij elke update. */
-const CACHE = "bartlopen-marathon-v1-c2-c3-logo2";
+const CACHE = "bartlopen-marathon-v1-c2-c3-logo3";
 const ASSETS = [
   "./",
   "./index.html",
